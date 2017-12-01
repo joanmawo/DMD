@@ -1,4 +1,4 @@
-%Scanning light sheet pattern generator for DMD
+% Scanning light sheet pattern generator for DMD
 
 % Pattern directory
 
